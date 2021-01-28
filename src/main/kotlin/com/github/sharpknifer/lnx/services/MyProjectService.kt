@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.sharpknifer.lnx.services
 
+import com.github.sharpknifer.lnx.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

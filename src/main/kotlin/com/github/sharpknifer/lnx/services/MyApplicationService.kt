@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sharpknifer.lnx.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sharpknifer.lnx.MyBundle
 
 class MyApplicationService {
 
